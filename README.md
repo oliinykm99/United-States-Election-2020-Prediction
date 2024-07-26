@@ -37,3 +37,6 @@ While income per capita appears to influence Republican vote share in certain co
 ## California State Actual Results
 ![Results](https://upload.wikimedia.org/wikipedia/commons/c/c8/California_Presidential_Election_Results_2020.svg)
 [Source](https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_California)
+
+## California State Predicted Results
+![Example Screenshot](Result/elections.png)
