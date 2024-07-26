@@ -34,6 +34,6 @@ This project examines how county characteristics influence voting behavior in th
 While income per capita appears to influence Republican vote share in certain contexts, causal inferences remain challenging with observable data due to potential biases. The analysis underscores the complexity of county characteristics in predicting voting behavior.
 
 
-## California State Results
+## California State Actual Results
 ![Results](https://upload.wikimedia.org/wikipedia/commons/c/c8/California_Presidential_Election_Results_2020.svg)
 [Source](https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_California)
